@@ -1,3 +1,1 @@
-Meu primeiro repositório git!!
-Teste da extensão.
-Alo, testando o merge agora :3
+Eu quero dedicar todo esse treino a minha namorada, ela me motiva a perseverar.
